@@ -1,3 +1,4 @@
+# Function to calculate the difference between the sum of the squares and the square of the sum
 def sum_squares(n):
     squares = []
     numbers = []

@@ -1,3 +1,5 @@
+# Function to calculate the sum of multiples of 3 or 5 below n
+
 def multiples(n):
     sum = 0
     for i in range(1, n):

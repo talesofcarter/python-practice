@@ -1,3 +1,4 @@
+# Function to calculate the sum of even Fibonacci numbers less than n
 def sum_even_fibonacci(n):
     a = 1
     b = 2
